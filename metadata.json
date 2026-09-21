@@ -1,0 +1,8 @@
+{
+  "name": "Regálate un minuto.",
+  "description": "Aplicación de pausa activa de 60 segundos para personal de salud con respiración clínica guiada, estiramientos físicos fáciles, notificaciones programables e historial de sesiones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
